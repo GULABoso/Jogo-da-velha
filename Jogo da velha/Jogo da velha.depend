@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1572497679 source:c:\users\valtim\documents\linguagem c - projetos\lista cc - 04\matrizes\lista pp04 - ex.25 - matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572545020 source:c:\users\valtim\documents\linguagem c - projetos\lista cc - 04\matrizes\lista pp04 - ex.25 - matrizes - incompleto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572961473 source:c:\users\valtim\documents\linguagem c - projetos\lista pp04 - ex.25 - matrizes - jogo da velha - melhorar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582051139 source:c:\users\guilherme\documents\linguagem c - projetos\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
